@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/Users/macbookpro/workspace/python",
+  "password": false,
+  "pid": 10779,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "35f53a7bb50863ebe2dea8d335f51f6d111269630eb65be6",
+  "url": "http://localhost:8888/"
+}

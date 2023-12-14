@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/Users/macbookpro/workspace",
+  "password": false,
+  "pid": 31901,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "1ca1707e9caf07addec42c7d0ec56229ed88bbcc09cbb8f8",
+  "url": "http://localhost:8888/"
+}
